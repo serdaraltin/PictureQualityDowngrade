@@ -1,0 +1,10 @@
+c:\users\main\documents\visual studio 2015\Projects\Fotograf Kalite Degistirme\Fotograf Kalite Degistirme\bin\Debug\Fotograf Kalite Degistirme.exe
+c:\users\main\documents\visual studio 2015\Projects\Fotograf Kalite Degistirme\Fotograf Kalite Degistirme\bin\Debug\Fotograf Kalite Degistirme.pdb
+c:\users\main\documents\visual studio 2015\Projects\Fotograf Kalite Degistirme\Fotograf Kalite Degistirme\bin\Debug\Fotograf Kalite Degistirme.xml
+c:\users\main\documents\visual studio 2015\Projects\Fotograf Kalite Degistirme\Fotograf Kalite Degistirme\obj\Debug\Fotograf Kalite Degistirme.vbprojResolveAssemblyReference.cache
+c:\users\main\documents\visual studio 2015\Projects\Fotograf Kalite Degistirme\Fotograf Kalite Degistirme\obj\Debug\Fotograf_Kalite_Degistirme.Form1.resources
+c:\users\main\documents\visual studio 2015\Projects\Fotograf Kalite Degistirme\Fotograf Kalite Degistirme\obj\Debug\Fotograf_Kalite_Degistirme.Resources.resources
+c:\users\main\documents\visual studio 2015\Projects\Fotograf Kalite Degistirme\Fotograf Kalite Degistirme\obj\Debug\Fotograf Kalite Degistirme.vbproj.GenerateResource.Cache
+c:\users\main\documents\visual studio 2015\Projects\Fotograf Kalite Degistirme\Fotograf Kalite Degistirme\obj\Debug\Fotograf Kalite Degistirme.exe
+c:\users\main\documents\visual studio 2015\Projects\Fotograf Kalite Degistirme\Fotograf Kalite Degistirme\obj\Debug\Fotograf Kalite Degistirme.xml
+c:\users\main\documents\visual studio 2015\Projects\Fotograf Kalite Degistirme\Fotograf Kalite Degistirme\obj\Debug\Fotograf Kalite Degistirme.pdb
